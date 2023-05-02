@@ -15,3 +15,6 @@ const router = app => {
             response.send(result);
         });
     });
+}
+// exportar el router
+module.exports= router;
