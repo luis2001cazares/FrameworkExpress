@@ -1,0 +1,25 @@
+{
+  "name": "frameworkexpress",
+  "version": "1.0.0",
+  "description": "API usando express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luis2001cazares/FrameworkExpress.git"
+  },
+  "keywords": [
+    "API"
+  ],
+  "author": "LUIS DAVID CAZARES MORALES",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luis2001cazares/FrameworkExpress/issues"
+  },
+  "homepage": "https://github.com/luis2001cazares/FrameworkExpress#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
