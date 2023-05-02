@@ -1,0 +1,10 @@
+const pool = require('../data/config');
+
+//ruta de la app
+const router = app => {
+    //mostrar mensaje de bienvenida de rrot
+    app.get('/,(request, response') => {
+        Response.send({
+            message: 'Bienvenido a Node.js Express REST API!'
+        });
+    });
